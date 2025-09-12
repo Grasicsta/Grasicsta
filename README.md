@@ -1,37 +1,51 @@
 
-<div align="center">
-<h2> Seja, bem vindo!</h2>
-</div>
-</br>
-<div align="center">
-  <div align="center">
-  <a href="https://github.com/Grasicsta">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Grasicsta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
-</br>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grasicsta&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</div>
-</br>
- <div align="center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="Formando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Formando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Formando -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Formando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- </div>
-</br>
+<h1 align="center">Oi, eu sou a Grasiela 👋</h1>
 
- <div align="center">
-  <a href="https://www.youtube.com/c/formandodev/playlists" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:Grasicostax@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="Link linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-</br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Grasicstacount.svg" /></p>
+<p align="center">
+  💻 Estudante de <b>Análise e Desenvolvimento de Sistemas</b> | 
+  📊 Apaixonada por <b>Análise de Dados</b> | 
+  🚀 Em busca de <b>estágio remoto em tecnologia</b>
+</p>
 
+---
 
+## 👩‍💻 Sobre mim
+- 🎓 Atualmente no 3º semestre de **ADS** (conclusão: 09/2026)  
+- 📚 Aprendendo e praticando **Análise de Dados** usando Python, Pandas, SQL e visualização de dados  
+- 🔍 Tenho experiência anterior com **atendimento ao público** e **assistência técnica em impressoras**  
+- 🌱 Também dou **aulas de Libras** como projeto paralelo  
+- 🚀 Meu objetivo atual: **conseguir um estágio em análise de dados** e aplicar meu aprendizado em projetos reais  
 
+---
+
+## 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Python, SQL, JavaScript  
+- **Dados:** Pandas, NumPy, Matplotlib, Jupyter Notebook  
+- **Versionamento:** Git & GitHub  
+- **Outros:** HTML, CSS, VS Code  
+
+---
+
+## 📌 Projetos em Destaque
+🔹 [**Projeto Integrador - Análise de Dados**](link_projeto)  
+*Breve descrição do que o projeto faz, dados utilizados e principais aprendizados.*
+
+🔹 [**Mini Projetos em Python**](link_projeto)  
+*Exercícios e desafios que mostram lógica de programação e manipulação de dados.*
+
+---
+
+## 🌐 Onde me encontrar
+<p align="left">
+  <a href="https://www.linkedin.com/in/grasiela-costa-780aba297" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:grasielacostasilva@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+✨ Sempre aprendendo, praticando e compartilhando conhecimento.  
+Seja bem-vindo(a) ao meu GitHub 🚀
