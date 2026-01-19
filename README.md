@@ -20,7 +20,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 - **Linguagens:** Python, SQL, JavaScript  
-- **Dados:** Pandas, NumPy, Matplotlib, Jupyter Notebook  
+- **Dados:** Pandas, NumPy, Matplotlib, 
 - **Versionamento:** Git & GitHub  
 - **Outros:** HTML, CSS, VS Code  
 
@@ -37,10 +37,10 @@
 
 ## 🌐 Onde me encontrar
 <p align="left">
-  <a href="https://www.linkedin.com/in/grasiela-costa-780aba297" target="_blank">
+  <a href="https://www.linkedin.com/in/grasielacosta/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:grasielacostasilva@gmail.com" target="_blank">
+  <a href="mailto:grasicostax@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
